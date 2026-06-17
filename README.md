@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/juego-de-seduccion-pura/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Juego de seducción pura](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/juego-de-seduccion-pura/) |
+| **Get License** | [License this song: Juego de seducción pura](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/juego-de-seduccion-pura/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `715373cf93cb796c198e8316490dafcf926b3169d5ac57e8e05d87e99d512a97` |
 | **Timestamp** | June 17, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

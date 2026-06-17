@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Juego de seducción pura
+
+This log tracks the cryptographic history and versioning for the song **Juego de seducción pura** (juego-de-seduccion-pura).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T17:05:13.090439 | `v1` | `715373cf93cb796c198e8316490dafcf926b3169d5ac57e8e05d87e99d512a97` | `08814192a58fc9cccdada2d0cb684a8dea966e9a9f8c50284985f01137bf7634` | `2026-06-17_juego-de-seduccion-pura-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
