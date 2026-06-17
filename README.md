@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/juego-de-seduccion-pura/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Juego de seducción pura](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/juego-de-seduccion-pura/) |
+| **Get License** | [Commercial Licensing for Juego de seducción pura](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/juego-de-seduccion-pura/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime claro si esta noche te escapas conmigo
+> Que la disco está a oscuras y yo soy tu castigo
+> Un juego de miradas, un deseo prohibido
+> Tú sabes que este ritmo nos tiene encendidos
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
